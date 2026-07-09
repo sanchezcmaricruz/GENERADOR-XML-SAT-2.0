@@ -177,6 +177,24 @@ Se recomienda utilizarla únicamente para casos especiales.
 
 </p>
 
+<h3>
+✏ Editar Consecutivo</h3>
+
+
+<p>
+
+Esta opción permite modificar manualmente el consecutivo 
+para poder generar folios automaticos apartir del numero 
+consecutivo establecido.
+Ejemplo: usted puede reiniciar el consecutio desde 1
+o continuar apartir de 10,20,100,250 o el numero que usted 
+decida establecer.
+
+<br><br>
+
+Se recomienda utilizarla únicamente para casos especiales.
+
+</p>
 
 
 
